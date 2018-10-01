@@ -26,7 +26,7 @@ This project done in collaboration with Liam Dehaudt at 42.
 ## Compiling and running
 Run `make`. An executable will compile. Currently only tested on OS X.
 
-Run with `./fractol "Filename"`. A collection of sample input files can be found in `./maps` folder.
+Run with `./mod1 "Filename"`. A collection of sample input files can be found in `./maps` folder.
 
 ## Modes
 * Flood
